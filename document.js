@@ -135,7 +135,7 @@ if(!AudioContext){
 
 
 
-let volume = 66;
+let volume = 33;
 let reject;
 const one = _=>{
     const voteStatus = bodyEl.getAttribute('data-status') === 'voting'?'voted':'voting';
